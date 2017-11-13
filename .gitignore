@@ -1,0 +1,13 @@
+/node_modules
+
+/_replicator
+/_users
+/pouch__all_dbs__
+
+/customers
+/items
+/rentals
+/services
+/settings
+
+/*.scss
